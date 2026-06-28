@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f7f1e7"/><stop offset="1" stop-color="#d8c29c"/></linearGradient><radialGradient id="r"><stop stop-color="#fffaf0" stop-opacity=".95"/><stop offset="1" stop-color="#fffaf0" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/><circle cx="210" cy="140" r="230" fill="url(#r)"/><circle cx="970" cy="620" r="250" fill="#8ca58d" opacity=".22"/>
+<path d="M160 590 C270 430, 290 250, 470 165" fill="none" stroke="#ffffff" stroke-width="5" opacity=".35"/>
+<g fill="none" stroke="#f9f1df" stroke-width="6" opacity=".72"><path d="M185 570c-60-130 10-210 95-150 55 39 18 128-95 150Z"/><path d="M292 420c-45-118 28-178 91-120 46 43 7 109-91 120Z"/><path d="M387 275c-30-96 38-138 83-88 35 38-4 87-83 88Z"/></g>
+<ellipse cx="580" cy="555" rx="330" ry="65" fill="#203125" opacity=".18"/><rect x="455" y="180" width="160" height="340" rx="48" fill="#fff8ea"/><rect x="482" y="130" width="106" height="75" rx="28" fill="#d7b278"/><rect x="465" y="305" width="140" height="118" rx="20" fill="#314d3a"/><text x="535" y="372" text-anchor="middle" font-size="23" fill="#f8efdf" font-family="Georgia">LNEH</text>
+<text x="80" y="120" font-size="72" fill="#203125" font-family="Georgia" font-weight="700">Botanical Skin Wellness</text><text x="82" y="170" font-size="27" fill="#52624e" font-family="Arial">Premium concept imagery for LNEH</text>
+</svg>
